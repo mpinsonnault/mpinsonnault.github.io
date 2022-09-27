@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Martin Pinsonnault"
 title_separator          : "-"
 name                     : &name "Martin Pinsonnault"
-description              : &description "personal description"
+description              : &description "Associate Professor at UWO"
 url                      : https://mpinsonnault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mpinsonnault.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "YMartin Pinsonnault"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Associate Professor at The Univerity of Western Ontario"
+  location         : "London, Ontario"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mpinsonnault"
   google_plus      :
   keybase          :
   instagram        :
