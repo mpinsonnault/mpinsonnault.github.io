@@ -4,7 +4,7 @@ collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We give a complete and self-contained exposition of the \\(J\\)-tame inflation lemma: Given any tame almost complex structure \\(J\\) on a symplectic 4-manifold \\((M,\omega)\\), and given any compact, embedded, \\(J\\)-holomorphic submanifold \\(Z\\), it is always possible to construct a deformation of symplectic forms \\(\omega_t\\) in classes \\([\omega_t]=[\omega]+tPD(Z)\\), for \\(0\leq t\\) less than an upper bound \\(0<T\\) that only depends on the self-intersection \\(Z\cdot Z\\).'
 date: 2024-03-27
-venue: 'arXiv'
+venue: 'arXiv.org'
 paperurl: 'https://arxiv.org/abs/2403.19110'
 citation: 'Pranav Chakravarthy, Jordan Payette, Martin Pinsonnault. (2024). &quot;Remarks on J-tame inflation.&quot; <i>arXiv:2403.19110</i>.'
 ---
