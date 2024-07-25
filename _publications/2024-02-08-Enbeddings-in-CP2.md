@@ -12,4 +12,4 @@ We investigate spaces of symplectic embeddings of \\(n\leq 4\\) balls into the c
 
 [Download paper here](https://arxiv.org/abs/2307.00556)
 
-#Recommended citation: Sílvia Anjos, Jarek Kędra, Martin Pinsonnault. (2024). &quot;Embeddings of symplectic balls into #the complex projective plane.&quot; <i>arxiv:2307.00556</i>.
+Recommended citation: Sílvia Anjos, Jarek Kędra, Martin Pinsonnault. (2024). &quot;Embeddings of symplectic balls into the complex projective plane.&quot; <i>arxiv:2307.00556</i>.
