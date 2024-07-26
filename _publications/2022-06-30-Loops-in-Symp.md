@@ -12,4 +12,3 @@ We study generators of the fundamental group of the group of symplectomorphisms 
 
 [Download paper here](https://arxiv.org/abs/2306.15046)
 
-Recommended citation: Pranav V. Chakravarthy, Martin Pinsonnault. (2023). &quot;Loops in the fundamental group of \\(\mathrm{Symp}(\mathbf{C}P^2\sharp 5\overline{\mathbf{C}P^2},\omega)\\) which are not represented by circle actions; <i>https://doi.org/10.4153/s0008414x22000323</i>.
