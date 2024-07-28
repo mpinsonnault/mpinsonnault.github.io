@@ -1,7 +1,7 @@
 ---
 title: "Semi-classical properties of Berezin-Toeplitz operators with $\mathcal{C}$-symbol"
 collection: publications
-#permalink: /publication/2024-03-27-J-inflation/
+#permalink: /publication/2024-03-27-J-inflation/ 
 excerpt: 'We obtain the semi-classical expansion of the kernels and traces of Toeplitz operators with $\mathcal{C}^k$-symbol on a symplectic manifold. We also give a semi-classical estimate of the distance of a Toeplitz operator to the space of self-adjoint and multiplication operators.'
 date: 2014-04-28
 venue: 'J. Math. Phys.'
