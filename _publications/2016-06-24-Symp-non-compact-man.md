@@ -1,7 +1,7 @@
 ---
 title: "Symplectormophism groups of non-compact manifolds, orbifold balls, and a space of Lagrangians"
 collection: publications
-permalink: https://doi.org/10.4310/JSG.2016.v14.n1.a8
+#permalink: https://doi.org/10.4310/JSG.2016.v14.n1.a8
 excerpt: 'We establish connections between contact isometry groups of certain contact manifolds and compactly supported symplectomorphism groups of their symplectizations.'
 date: 2016-06-24
 venue: 'Journal of Symplectic Geometry'
