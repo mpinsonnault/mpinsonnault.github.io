@@ -1,7 +1,7 @@
 ---
 title: "Embeddings of symplectic balls into the complex projective plane"
 collection: publications
-permalink: https://arxiv.org/abs/2307.00556
+#permalink: https://arxiv.org/abs/2307.00556
 excerpt: 'We investigate spaces of symplectic embeddings of $n\leq 4$ balls into the complex projective plane. We prove that they are homotopy equivalent to explicitly described algebraic subspaces of the configuration spaces of $n$ points.'
 date: 2024-02-08
 venue: 'arxiv.org'
