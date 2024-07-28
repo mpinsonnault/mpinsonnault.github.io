@@ -1,7 +1,7 @@
 ---
 title: "Centralizers of Hamiltonian finite cyclic group actions on rational ruled surfaces"
 collection: publications
-permalink: https://doi.org/10.1090/tran/9223
+#permalink: https://doi.org/10.1090/tran/9223
 excerpt: 'Let $M=(M,\omega)$ be either the product $S^2\times S^2$ or the non-trivial $S^2$ bundle over $S^2$ endowed with any symplectic form $\omega$. Suppose a finite cyclic group $\mathbf{Z}_n$ is acting effectively on $(M,\omega)$ through Hamiltonian diffeomorphisms, that is, there is an injective homomorphism $\mathbf{Z}_n\hookrightarrow \mathrm{Ham}(M,\omega)$. In this paper, we investigate the homotopy type of the group $\mathrm{Symp}^{\mathbf{Z}_n}(M,\omega)$ of equivariant symplectomorphisms.'
 date: 2023-06-26
 venue: 'Transactions of the AMS'
