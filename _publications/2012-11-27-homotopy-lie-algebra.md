@@ -12,4 +12,4 @@ By a result of Kedra and Pinsonnault, we know that the topology of groups of sym
 
 [Download paper here](https://doi.org/10.1007/s00209-012-1134-5)
 
-[arxiv version](https://arxiv.org/abs/1201.5077)
+[arXiv version](https://arxiv.org/abs/1201.5077)
