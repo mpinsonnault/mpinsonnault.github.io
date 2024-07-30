@@ -2,7 +2,7 @@
 title: 'The homotopy type of the space of symplectic balls in rational ruled 4-manifolds'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
-excerpt: ''
+excerpt: 'In this paper, we compute the rational homotopy type, the minimal model, and the cohomology with rational coefficients of $\mathrm{\Emb}_{\omega}(B^{4}(c),M)$ in the remaining case $c \in [c_{\mathrm{crit}},w_{M})$. In particular, we show that it does not have the homotopy type of a finite CW-complex.'
 date: 2008-11-03
 venue: 'Geometry \& Topology'
 paperurl: 'https://doi.org/10.2140/gt.2009.13.1177'
