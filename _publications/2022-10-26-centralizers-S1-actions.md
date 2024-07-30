@@ -12,4 +12,4 @@ In this paper, we compute the homotopy type of the group of equivariant symplect
 
 To appear in Memoirs of the AMS.
 
-[Download paper here](https://arxiv.org/abs/2202.08255)
+[arXiv version](https://arxiv.org/abs/2202.08255)
