@@ -1,5 +1,5 @@
 ---
-title: 'Groupes d&apos automorphismes et plongements symplectiques de boules dans les variétés rationnelles'
+title: 'Groupes d&#39; automorphismes et plongements symplectiques de boules dans les variétés rationnelles'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
 excerpt: 'Nous étudions l’espace $Pl(c,\lambda)$ des plongements symplectiques de la boule fermée $B^4(c) \subset\mathbf{R}^4$ de capacité $c$ dans $(S^2 \times S^2,(1+\lambda)\omega_{st}\oplus\omega_{st})$.'
