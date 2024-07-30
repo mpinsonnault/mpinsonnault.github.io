@@ -11,4 +11,5 @@ citation: 'Barron, T., Ma, X., Marinescu, G., Pinsonnault, M. "Semi-classical pr
 We obtain the semi-classical expansion of the kernels and traces of Toeplitz operators with $\mathcal{C}^k$-symbol on a symplectic manifold. We also give a semi-classical estimate of the distance of a Toeplitz operator to the space of self-adjoint and multiplication operators.
 
 [Download paper here](https://doi-org.proxy1.lib.uwo.ca/10.1063/1.4870869)
-(arxiv: https://arxiv.org/abs/2403.19110)
+
+[arXiv version](https://arxiv.org/abs/1310.3571)
