@@ -1,0 +1,15 @@
+---
+title: ''
+collection: publications
+#permalink: /publication/2024-03-27-J-inflation/ 
+excerpt: ''
+date: 2012-11-27
+venue: ''
+paperurl: 'https://doi.org/'
+citation: ''
+---
+
+
+[Download paper here](https://doi.org/)
+
+[arXiv version](https://arxiv.org/abs/)
