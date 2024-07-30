@@ -2,7 +2,7 @@
 title: 'Symplectomorphism groups and embeddings of balls into rational ruled 4-manifolds'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
-excerpt: 'In this paper, we study the homotopy type of the symplectomorphism group $\Symp(\tilde{X}_{\iota})$, simplifying and extending the results of math.SG/0207096. This allows us to compute the rational homotopy groups of the space $\Im\mathrm{Emb}(B_{c},X)$ of unparametrized symplectic embeddings of $B_{c}$ into $X$.'
+excerpt: 'In this paper, we study the homotopy type of the symplectomorphism group $\mathrm{Symp}(\tilde{X}_{\iota})$, simplifying and extending the results of math.SG/0207096. This allows us to compute the rational homotopy groups of the space $\Im\mathrm{Emb}(B_{c},X)$ of unparametrized symplectic embeddings of $B_{c}$ into $X$.'
 date: 2006-03-13
 venue: 'Compositio Mathematica'
 paperurl: 'https://doi.org/10.1112/S0010437X0700334X'
