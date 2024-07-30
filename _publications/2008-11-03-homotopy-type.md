@@ -4,7 +4,7 @@ collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
 excerpt: 'In this paper, we compute the rational homotopy type, the minimal model, and the cohomology with rational coefficients of the embedding space $\mathrm{Emb}_{\omega}(B^{4}(c),M)$ for a "large" ball of  capacity $c \in [c_{\mathrm{crit}},w_{M})$. In particular, we show that it does not have the homotopy type of a finite CW-complex.'
 date: 2008-11-03
-venue: 'Geometry \& Topology'
+venue: 'Geometry & Topology'
 paperurl: 'https://doi.org/10.2140/gt.2009.13.1177'
 citation: 'Anjos, S., Lalonde, F., Pinsonnault, M., The homotopy type of the space of symplectic balls in rational ruled 4-manifolds. Geom. Topol. 13 (2009), no.2, 1177–1227.'
 ---
