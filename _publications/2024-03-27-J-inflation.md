@@ -2,7 +2,7 @@
 title: 'Remarks on $J$-tame inflation'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/
-excerpt: 'We give a complete and self-contained exposition of the $J$-tame inflation lemma: Given any tame almost complex structure $J$ on a symplectic 4-manifold $(M,\omega)$, and given any compact, embedded, $J$-holomorphic submanifold $Z$, it is always possible to construct a deformation of symplectic forms $\omega_t$ in classes $[\omega_t]=[\omega]+tPD(Z)$, for $0\leq t$ less than an upper bound $0<T$ that only depends on the self-intersection $Z\cdot Z$.'
+excerpt: 'We give a complete and self-contained exposition of the $J$-tame inflation lemma: Given any tame almost complex structure $J$ on a symplectic 4-manifold $(M,\omega)$, and given any compact, embedded, $J$-holomorphic submanifold $Z$, it is always possible to construct a deformation of symplectic forms $\omega_t$ in classes $[\omega_t]=[\omega]+tPD(Z)$, for $0\leq t$ less than an upper bound $0< T$ that only depends on the self-intersection $Z\cdot Z$.'
 date: 2024-03-27
 venue: 'arXiv.org'
 paperurl: 'https://arxiv.org/abs/2403.19110'
