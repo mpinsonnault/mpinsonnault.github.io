@@ -2,7 +2,7 @@
 title: 'The topology of the space of symplectic balls in rational 4-manifolds'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
-excerpt: 'We study in this paper the rational homotopy type of the space of symplectic embeddings of the standard ball $B^4(c) \subset \R^4$ into 4-dimensional rational symplectic manifolds. We compute the rational homotopy groups of that space when the 4-manifold has the form $M_{\mu}=(S^2\times S^2,\mu\omega_0\oplus\omega_0)$ where $\omega_0$ is the area form on the sphere with total area 1 and $\mu$ belongs to the interval $[1,2]$.'
+excerpt: 'We study in this paper the rational homotopy type of the space of symplectic embeddings of the standard ball $B^4(c) \subset \mathbf{R}^4$ into 4-dimensional rational symplectic manifolds. We compute the rational homotopy groups of that space when the 4-manifold has the form $M_{\mu}=(S^2\times S^2,\mu\omega_0\oplus\omega_0)$ where $\omega_0$ is the area form on the sphere with total area 1 and $\mu$ belongs to the interval $[1,2]$.'
 date: 2004-06-04
 venue: 'Duke Mathematical Journal'
 paperurl: 'https://doi.org/10.1215/S0012-7094-04-12223-7'
