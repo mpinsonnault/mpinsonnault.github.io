@@ -2,7 +2,7 @@
 title: 'Packing numbers of rational ruled four-manifolds'
 collection: publications
 #permalink: /publication/2024-03-27-J-inflation/ 
-excerpt: ''
+excerpt: 'We completely solve the symplectic packing problem with equally sized balls for any rational, ruled, symplectic 4-manifolds. We give explicit formulae for the packing numbers, the generalized Gromov widths, the stability numbers, and the corresponding obstructing exceptional classes.'
 date: 2011-04-18
 venue: 'The Journal of Symplectic Geometry'
 paperurl: 'https://doi.org/10.4310/JSG.2013.v11.n2.a5'
