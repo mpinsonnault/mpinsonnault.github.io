@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink:
 venue: "University 1, Department"
-date: Fall 2024
+date: 2024-09-05
 location: "City, Country"
 ---
 
