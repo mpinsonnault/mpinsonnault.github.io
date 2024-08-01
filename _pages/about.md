@@ -53,7 +53,7 @@ My blurb
 ======
 My main research interests are in the field of symplectic topology and geometry, which is a branch of mathematics concerned with the study of symplectic manifolds i.e. geometric structures that arise naturally in the study of classical and quantum mechanics. My work particularly focuses on several key areas within this field:
 
-1. **Symplectic and Hamiltonian Group Actions**: Pinsonnault investigates the actions of groups on symplectic manifolds, exploring how these actions can be used to understand the manifold's geometry and topology. This includes classifications of Hamiltonian Lie group actions, which are symmetries of the manifold that preserve its symplectic structure.
+1. **Symplectic and Hamiltonian Group Actions**: A fundamental problem is to better understand actions of Lie groups on symplectic manifolds, that is, symmetries of the manifold that preserve its symplectic structure. This can be broken into two broad questions: how the knowledge of Lie group actions can be used to understand the manifold's geometry and topology and, conversely, how the geometry of the manifold restricts the groups that can possibly act on it. This includes extending various classification results of Hamiltonian Lie group actions. 
 
 2. **Topology of Symplectomorphism Groups**: More generaly, I am interested in structural and topological properties of infinite dimensional symplectomorphism groups, such as their homology and homotopy groups, or the geometries induced by various invariant metrics. This involves understanding how the symplectic structure influences and constrains the possible topological configurations of auxiliary infinite dimensional spaces such as spaces of almost complex structures.
 
