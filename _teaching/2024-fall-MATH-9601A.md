@@ -60,7 +60,7 @@ We will also draw from other well-known references as listed below. In orther to
 - *An Introduction to Symplectic Geometry* by R. Berndt
 - *Mathematical Methods of Classical Mechanics* by V. Arnold
 - *Symplectic Techniques in Physics* by V. Guillemin and S. Sternberg
-- *$J$-holomorphic Curves and Symplectic Topology* by D. McDuff and D. Salamon
+- *J-holomorphic Curves and Symplectic Topology* by D. McDuff and D. Salamon
 
 **Prerequisite:** Familiarity with differential geometry (in particular, differential forms and vector fields on manifolds as covered in Math 9055A/4155A - Calculus on Manifolds) and with algebraic topology (in particular, de Rham cohomology as covered in Math 9052B/4152B  - Algebraic Topology) will be assumed. 
 
