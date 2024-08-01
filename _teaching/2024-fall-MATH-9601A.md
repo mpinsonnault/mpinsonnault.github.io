@@ -1,5 +1,5 @@
 ---
-title: "MATH 9601A - Symplectic Geometry"
+title: "MATH 9601A Symplectic Geometry"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-MATH-9601A
