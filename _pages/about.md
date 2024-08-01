@@ -51,16 +51,17 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 My blurb
 ======
-Martin Pinsonnault's research is deeply rooted in the field of symplectic topology and geometry, which is a branch of mathematics concerned with the study of symplectic manifolds—geometric structures that arise naturally in the study of classical and quantum mechanics. His work particularly focuses on several key areas within this field:
+My main reserch interests are in the field of symplectic topology and geometry, which is a branch of mathematics concerned with the study of symplectic manifolds i.e. geometric structures that arise naturally in the study of classical and quantum mechanics. My work particularly focuses on several key areas within this field:
 
-1. **Symplectic and Hamiltonian Group Actions**: Pinsonnault investigates the actions of groups on symplectic manifolds, exploring how these actions can be used to understand the manifold's geometry and topology. This includes studying the properties of Hamiltonian group actions, which are symmetries of the manifold that preserve its symplectic structure.
+1. **Symplectic and Hamiltonian Group Actions**: Pinsonnault investigates the actions of groups on symplectic manifolds, exploring how these actions can be used to understand the manifold's geometry and topology. This includes classifications of Hamiltonian group actions, which are symmetries of the manifold that preserve its symplectic structure.
 
-2. **Topology of Symplectic Manifolds**: He is interested in the global topological properties of symplectic manifolds, such as their homology and homotopy groups. This involves understanding how the symplectic structure influences and constrains the possible topological configurations of the manifold.
+2. **Topology of Symplectomorphism Groups**: More generaly, I am interested in the global topological properties of infinite dimensional symplectomorphism groups, such as their homology and homotopy groups. This involves understanding how the symplectic structure influences and constrains the possible topological configurations of auxiliary infinite dimensional spaces such as spaces of almost complex structures.
 
-3. **Interplay with Algebraic Geometry**: Pinsonnault's work often intersects with algebraic geometry, particularly in the study of complex algebraic varieties that admit a symplectic structure. This includes investigating how techniques from algebraic geometry can be applied to solve problems in symplectic topology and vice versa.
+4. **Embedding Problems**: Thanks to the foundational work of Gromov in the 1980's, we known that key properties of a symplectic space $(M,omega)$ are captured by looking at how standard symplectic balls $B(c)\subset\mathbb{R}^{2n}$ embbed into it. Another aspect of my research involves studying how symplectomorphism groups act on spaces of symplectic embeddings, and what geometric and topological information can be extracted from this action.
 
-4. **Dynamical Systems**: Another aspect of his research involves studying the behavior of dynamical systems from a symplectic perspective. This includes understanding the stability and evolution of systems that are governed by symplectic structures.
+5. **Quantization and Mathematical Physics**: I am also exploring the connections between symplectic geometry and mathematical physics, particularly in the context of geometric quantization *(à la Souriau)*. This involves understanding how classical mechanical systems described by symplectic manifolds transition to quantum mechanical systems.
 
-5. **Quantization and Mathematical Physics**: Pinsonnault also explores the connections between symplectic geometry and mathematical physics, particularly in the context of quantization. This involves understanding how classical mechanical systems described by symplectic manifolds transition to quantum mechanical systems.
+3. **Interplay with Algebraic Geometry**:  My work often intersects with algebraic geometry, particularly in the study of complex algebraic varieties that admit symplectic structures. This includes investigating how techniques from algebraic geometry can be applied to solve problems in symplectic topology and vice versa.
 
-Throughout his research, Pinsonnault employs a variety of sophisticated mathematical tools and techniques, including differential geometry, algebraic topology, and geometric analysis. His contributions help to deepen the understanding of symplectic structures and their applications, influencing both theoretical developments and practical applications in mathematics and physics.
+
+Finally, an interesting feature of the above problems is that they usually involve a variety of mathematical tools and techniques, including real and complex differential geometry, algebraic topology, and geometric analysis.
