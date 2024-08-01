@@ -3,9 +3,9 @@ title: "MATH 9601A Symplectic Geometry"
 collection: teaching
 type: "Graduate course"
 permalink:
-venue: "University 1, Department"
+venue: "The University of Western Ontario, Department of Mathematics"
 date: 2024-09-05
-location: "City, Country"
+location: "London, Canada"
 ---
 
 **Early Announcement**
