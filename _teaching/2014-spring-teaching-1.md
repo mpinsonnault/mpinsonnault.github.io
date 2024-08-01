@@ -33,9 +33,7 @@ This course should prepare students for more advanced topics like classification
 At the non-linear level, symplectic structures on manifolds appear naturally when one wants to write the equations of classical mechanics on arbitrary curved spaces using the minimal action principle (the symplectic form measures the action) as a guideline. Less well known is the fact that symplectic structures also appear in quantum mechanics (together with inner products and complex structures) as the space of states of a quantum system is the projective space of a Hilbert space.
 
 To know more about symplectic geometry, take a look at the nLab entry at 
-<p style="text-align: center;">
-https://ncatlab.org/nlab/show/symplectic+geometry 
-</p>
+<p style="text-align: center;">https://ncatlab.org/nlab/show/symplectic+geometry</p>
 From a physics perspective, there is this nice discussion at 
 <p style="text-align: center;">
 https://cohn.mit.edu/symplectic/ 
