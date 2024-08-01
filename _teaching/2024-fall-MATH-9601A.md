@@ -2,7 +2,7 @@
 title: "MATH 9601A - Symplectic Geometry"
 collection: teaching
 type: "Graduate course"
-#permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-fall-MATH-9601A
 venue: "University 1, Department"
 date: Fall 2024
 location: "City, Country"
