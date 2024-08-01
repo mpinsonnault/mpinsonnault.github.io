@@ -48,3 +48,19 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+My blurb
+======
+Martin Pinsonnault's research is deeply rooted in the field of symplectic topology and geometry, which is a branch of mathematics concerned with the study of symplectic manifolds—geometric structures that arise naturally in the study of classical and quantum mechanics. His work particularly focuses on several key areas within this field:
+
+1. **Symplectic and Hamiltonian Group Actions**: Pinsonnault investigates the actions of groups on symplectic manifolds, exploring how these actions can be used to understand the manifold's geometry and topology. This includes studying the properties of Hamiltonian group actions, which are symmetries of the manifold that preserve its symplectic structure.
+
+2. **Topology of Symplectic Manifolds**: He is interested in the global topological properties of symplectic manifolds, such as their homology and homotopy groups. This involves understanding how the symplectic structure influences and constrains the possible topological configurations of the manifold.
+
+3. **Interplay with Algebraic Geometry**: Pinsonnault's work often intersects with algebraic geometry, particularly in the study of complex algebraic varieties that admit a symplectic structure. This includes investigating how techniques from algebraic geometry can be applied to solve problems in symplectic topology and vice versa.
+
+4. **Dynamical Systems**: Another aspect of his research involves studying the behavior of dynamical systems from a symplectic perspective. This includes understanding the stability and evolution of systems that are governed by symplectic structures.
+
+5. **Quantization and Mathematical Physics**: Pinsonnault also explores the connections between symplectic geometry and mathematical physics, particularly in the context of quantization. This involves understanding how classical mechanical systems described by symplectic manifolds transition to quantum mechanical systems.
+
+Throughout his research, Pinsonnault employs a variety of sophisticated mathematical tools and techniques, including differential geometry, algebraic topology, and geometric analysis. His contributions help to deepen the understanding of symplectic structures and their applications, influencing both theoretical developments and practical applications in mathematics and physics.
