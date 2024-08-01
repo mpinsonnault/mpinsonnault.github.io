@@ -32,15 +32,11 @@ This course should prepare students for more advanced topics like classification
 
 At the non-linear level, symplectic structures on manifolds appear naturally when one wants to write the equations of classical mechanics on arbitrary curved spaces using the minimal action principle (the symplectic form measures the action) as a guideline. Less well known is the fact that symplectic structures also appear in quantum mechanics (together with inner products and complex structures) as the space of states of a quantum system is the projective space of a Hilbert space.
 
-To know more about symplectic geometry, take a look at the nLab entry at: 
-<p>https://ncatlab.org/nlab/show/symplectic+geometry</p>
-From a physics perspective, there is this nice discussion at: 
-<p>https://cohn.mit.edu/symplectic/ </p>
-Of course, the Wikipedia page is also a good entry point: 
-<p>https://en.wikipedia.org/wiki/Symplectic_geometry</p>
+To know more about symplectic geometry, take a look at the nLab entry at: https://ncatlab.org/nlab/show/symplectic+geometry
 
+From a physics perspective, there is this nice discussion at: https://cohn.mit.edu/symplectic/
 
-
+Of course, the Wikipedia page is also a good entry point: https://en.wikipedia.org/wiki/Symplectic_geometry
 
 **Prerequisites:** Familiarity with differential geometry (in particular, differential forms and vector fields on manifolds as covered in Math 9055A/4155A - Calculus on Manifolds) and with algebraic topology (in particular, de Rham cohomology as covered in Math 9052B/4152B  - Algebraic Topology) will be assumed. Note that we will emphasize the geometrical aspects of the theory.  In particular, we will try to stay away from purely topological questions and we will minimize the use of algebraic topology machinery.
 
