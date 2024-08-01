@@ -22,28 +22,28 @@ location: "City, Country"
 
 **Tentative Schedule:** Tuesdays and Thursdays, 11:30 to 13:00. Location TBD. Note that this schedule may be modified in consultation with all interested students.
 
-{**Course website:** The MATH 9601A OWL website will be available later in August.\\%. Please visit this page regularly for up-to-date information on the course.
+**Course website:** The MATH 9601A OWL website will be available later in August.
 
 **Course Outline:** The aim of this course is to provide an introduction to symplectic geometry with a view to some recent results. We will cover the foundations: symplectic and complex vector spaces, linear symplectic geometry, symplectic manifolds, key examples and problems, connections to classical mechanics, normal forms, connections to complex geometry and contact geometry, symplectic transformations, Hamiltonian actions and moment maps, symplectic reduction, classical invariants, brief introduction to $J$-holomorphic curves and the Nonsqueezing theorem.
 
 This course should prepare students for more advanced topics like classifications of Hamiltonian actions, full-fledged $J$-holomorphic curves theory, Gromov invariants, quantum homology, Floer theory, or Mirror Symmetry. 
 
-**What is symplectic geometry ?** At the linear level, an inner product $g$ on a real vector space $V$ is a non-degenerate symmetric bilinear pairing that defines an isomorphism between $V$ and its dual $V^\*$. This structure induces a geometry based on the usual notions of lengths and angles. A symplectic structure $\omega$ is a non-degenerate ==skew-symmetric== bilinear pairing that defines an isomorphism between $V$ and  $V^*$. It induces a geometry based on ==2-dimensional signed areas==. Over the complex numbers this structure is just as natural as an inner product since any hermitian product $h$ on a ==complex== vector space $W$ is made of an inner product $g$ (the real part) and a symplectic form $\omega$ (the imaginary part).
+**What is symplectic geometry ?** At the linear level, an inner product $g$ on a real vector space $V$ is a non-degenerate *symmetric* bilinear pairing that defines an isomorphism between $V$ and its dual $V^\*$. This structure induces a geometry based on the usual notions of lengths and angles. A symplectic structure $\omega$ is a non-degenerate *skew-symmetric* bilinear pairing that defines an isomorphism between $V$ and  $V^*$. It induces a geometry based on *2-dimensional signed areas*. Over the complex numbers this structure is just as natural as an inner product since any hermitian product $h$ on a *complex* vector space $W$ is made of an inner product $g$ (the real part) and a symplectic form $\omega$ (the imaginary part).
 
-At the non-linear level, symplectic structures on manifolds appear naturally when one wants to write the equations of classical mechanics on arbitrary curved spaces using the minimal action principle (the symplectic form measures the action). Less well known is the fact that symplectic structures also appear in quantum mechanics (together with inner products and complex structures) as the space of states of a quantum system is the projective space of a Hilbert space.
+At the non-linear level, symplectic structures on manifolds appear naturally when one wants to write the equations of classical mechanics on arbitrary curved spaces using the minimal action principle (the symplectic form measures the action) as a guideline. Less well known is the fact that symplectic structures also appear in quantum mechanics (together with inner products and complex structures) as the space of states of a quantum system is the projective space of a Hilbert space.
 
 To know more about symplectic geometry, take a look at the nLab entry at 
-
+<p style="text-align: center;">
 https://ncatlab.org/nlab/show/symplectic+geometry 
-
+</p>
 From a physics perspective, there is this nice discussion at 
-
+<p style="text-align: center;">
 https://cohn.mit.edu/symplectic/ 
-
+</p>
 Of course, the Wikipedia page is also a good entry point: 
-
+<p style="text-align: center;">
 https://en.wikipedia.org/wiki/Symplectic_geometry
-
+</p>
 
 
 
