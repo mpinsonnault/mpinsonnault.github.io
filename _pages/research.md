@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-Research Interests
-======
 My main research interests are in the field of symplectic topology and geometry, which is a branch of mathematics concerned with the study of symplectic manifolds i.e. geometric structures that arise naturally in the study of classical and quantum mechanics. My work particularly focuses on several areas within this field:
 
 1. **Symplectic and Hamiltonian Group Actions**: A fundamental problem is to better understand actions of Lie groups on symplectic manifolds, that is, symmetries of the manifold that preserve its symplectic structure. This can be broken into two broad questions: how the knowledge of Lie group actions can be used to understand the manifold's geometry and topology and, conversely, how the geometry of the manifold restricts the groups that can possibly act on it. This includes extending various classification results of Hamiltonian Lie group actions. 
