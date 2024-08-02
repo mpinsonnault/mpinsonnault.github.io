@@ -15,9 +15,9 @@ location: "London, Canada"
 **Office:** MC 132
 
 **E-mail:** mpinson@uwo.ca
-
+{% comment %}
 **Tentative Schedule:** Tuesdays and Thursdays, 11:30 to 13:00. Location TBD. Note that this schedule may be modified in consultation with all interested students.
-
+{% endcomment %}
 **Course website:** The MATH 9601A OWL website will be available later in August.
 
 **Course Outline:** The aim of this course is to provide an introduction to symplectic geometry with a view to some recent results. We will cover the foundations: symplectic and complex vector spaces, linear symplectic geometry, symplectic manifolds, key examples and problems, connections to classical mechanics, normal forms, connections to complex geometry and contact geometry, symplectic transformations, Hamiltonian actions and moment maps, symplectic reduction, classical invariants, brief introduction to $J$-holomorphic curves and the Nonsqueezing theorem.
