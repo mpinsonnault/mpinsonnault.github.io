@@ -20,12 +20,10 @@ In the Fall 2024 term, I will be teaching the graduate course [MATH 9601A - Symp
 
 Contact
 ======
-Martin Pinsonnault
-
-Department of Mathematics
-Middlesex College
-The University of Western Ontario
-London, Ontario
-Canada, N6A 5B7.
-
+Martin Pinsonnault\
+Department of Mathematics\
+Middlesex College\
+The University of Western Ontario\
+London, Ontario\
+Canada, N6A 5B7.\
 mpinson@uwo.ca

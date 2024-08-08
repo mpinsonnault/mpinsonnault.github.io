@@ -13,7 +13,7 @@ My main research interests are in the field of symplectic topology and geometry,
 
 5. **Quantization and Mathematical Physics**: I am also exploring the connections between symplectic geometry and mathematical physics, particularly in the context of geometric quantization *(à la Souriau)*. This involves understanding how classical mechanical systems described by symplectic manifolds transition to quantum mechanical systems.
 
-3. **Interplay with Algebraic Geometry**:  My work often intersects with algebraic geometry, particularly in the study of complex algebraic varieties that admit symplectic structures. This includes investigating how techniques from algebraic geometry can be applied to solve problems in symplectic topology and vice versa.
+3. **Interplay with Algebraic Geometry**:  My work often intersects with algebraic geometry, particularly in the study of Kähler manifolds and deformation of complex structures. This includes investigating how techniques from algebraic geometry can be applied to solve problems in symplectic topology and vice versa.
 
 
-Finally, an interesting feature of the above problems is that they usually involve a variety of mathematical tools and techniques, including real and complex differential geometry, algebraic topology, and geometric analysis.
+Finally, an interesting feature of the above areas is that they usually involve a variety of mathematical tools and techniques borrowed from other fields, including real and complex differential geometry, algebraic topology, and geometric analysis.
