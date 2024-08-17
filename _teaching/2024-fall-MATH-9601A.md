@@ -76,7 +76,7 @@ The homeworks are an integral part of the course and special attention must be p
 At the end of the semester, each student will give a presentation ( $\sim$ 50 minutes) on a subject related to the course material. The topic should be selected as early as possible. We will maintain a list of possible topics that students can choose from. Alternatively, students may decide on another topic of particular interest/relevance for them after discussion with the intructor.
 
 <div align="center">
-<img src="mpinsonnault.github.io/images/chameau.png" width="100" height="100" />
+<img src="mpinsonnault.github.io/images/Chameau.png" width="100" height="100" />
 </div>
 
 <div align="right">
