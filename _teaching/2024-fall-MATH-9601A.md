@@ -8,13 +8,11 @@ date: 2024-09-05
 location: "London, Canada"
 ---
 
-**Early Announcement**
-
 **Instructor:** Martin Pinsonnault
 
 **Office:** MC 132
 
-**E-mail:** mpinson@uwo.ca
+**E-mail:** mpinson [at] uwo.ca
 {% comment %}
 **Tentative Schedule:** Tuesdays and Thursdays, 11:30 to 13:00. Location TBD. Note that this schedule may be modified in consultation with all interested students.
 {% endcomment %}
@@ -79,6 +77,35 @@ At the end of the semester, each student will give a presentation ( $\sim$ 50 mi
 <img src="/images/Chameau.png" width="100" height="100" />
 </div>
 
+
+**Regulations**
+
+**UWO e-mail:**  In accordance with this policy, the centrally administered e-mail account provided to students will be considered the individual's official university e-mail address. It is the responsibility of the account holder to ensure that e-mail received from the University at his/her official university address is attended to in a timely manner.
+
+**Scholastic offences:**  Scholastic offences are taken seriously and students are directed to read the appropriate policy, specifically, the definition of what constitutes a Scholastic Offence, at the following Web site: [https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_grad.pdf](https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_grad.pdf)
+
+The penalty for an academic offence will be a grade of 0 on that component of the final grade (referring to the percentages listed above).
+
+In some cases, the penalty can include expulsion from the program. All academic offences are added to your student record.
+
+**Medical Accommodation:** Most issues involving medical accommodation can be handled by contacting the intructor.
+
+In other situations, a student requiring academic accommodation due to illness should bring a Student Medical Certificate with them when visiting an off-campus medical facility and use a Record Release Form for visits to Student Health Services.
+
+**Support Services:** Learning-skills counsellors at Learning Development & Success are ready to help you improve your learning skills. Students who are in emotional/mental distress should refer to Mental Health at Western for a complete list of options about how to obtain help. Additional student-run support services are offered by the USC. The website for Registrarial Services is [https://www.registrar.uwo.ca](https://www.registrar.uwo.ca).
+
+**Student Accessibility Services:** Please contact the course instructor if you require lecture or printed material in an alternate format or if any other arrangements can make this course more accessible to you. You may also wish to contact Accessible Education at [http://academicsupport.uwo.ca/accessible_education/index.html](http://academicsupport.uwo.ca/accessible_education/index.html) if you have any questions regarding accommodations.
+
+Western is committed to achieving barrier-free accessibility for all its members, including graduate students. As part of this commitment, Western provides a variety of services devoted to promoting, advocating, and accommodating persons with disabilities in their respective graduate program.
+
+Graduate students with disabilities (for example, chronic illnesses, mental health conditions, mobility impairments) are encouraged to register with Student Accessibility Services, a confidential service designed to support graduate and undergraduate students through their academic program. With the appropriate documentation, the student will work with both SAS and their graduate programs (normally their Graduate Chair and/or Course instructor) to ensure that appropriate academic accommodations to program requirements are arranged. These accommodations include individual counselling, alternative formatted literature, accessible campus transportation, learning strategy instruction, writing exams and assistive technology instruction.
+
+Western is committed to reducing incidents of gender-based and sexual violence and providing compassionate support to anyone who has gone through these traumatic events. If you have experienced sexual or gender-based violence (either recently or in the past), you will find information about support services for survivors, including emergency contacts at this link. To connect with a case manager or set up an appointment, please contact [support@uwo.ca](support@uwo.ca).
+
+Additional student-run support services are offered by the USC.
+
+If students need assistance with the course OWL Brightspace site, they can seek support on the OWL Brightspace Help page. Alternatively, they can contact the Western Technology Services Helpdesk. The Helpdesk can also be contacted by phone at 519-661-3800 or ext. 83800.
+
 <div align="right">
-Last updated 2024-07-24
+Last updated 2024-08-16
 </div>

@@ -26,4 +26,4 @@ Middlesex College\
 The University of Western Ontario\
 London, Ontario\
 Canada, N6A 5B7.\
-mpinson@uwo.ca
+mpinson [at] uwo.ca
