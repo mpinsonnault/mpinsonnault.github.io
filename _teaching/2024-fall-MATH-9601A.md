@@ -60,9 +60,8 @@ We will also draw from other well-known references as listed below. In orther to
 - *Symplectic Techniques in Physics* by V. Guillemin and S. Sternberg
 - *J-holomorphic Curves and Symplectic Topology* by D. McDuff and D. Salamon
 
-**Prerequisite:** Familiarity with differential geometry (in particular, differential forms and vector fields on manifolds as covered in Math 9055A/4155A - Calculus on Manifolds) and with algebraic topology (in particular, de Rham cohomology as covered in Math 9052B/4152B  - Algebraic Topology) will be assumed. 
 
-**Tentative Evaluation Scheme:** The evaluation will consist in
+**Evaluation Scheme:** The evaluation will consist in
 
 - 6 short homeworks (every other week): $\sim$ 30%
 - Final exam: $\sim$ 40%
@@ -73,12 +72,23 @@ The homeworks are an integral part of the course and special attention must be p
 
 At the end of the semester, each student will give a presentation ( $\sim$ 50 minutes) on a subject related to the course material. The topic should be selected as early as possible. We will maintain a list of possible topics that students can choose from. Alternatively, students may decide on another topic of particular interest/relevance for them after discussion with the intructor.
 
+**Course Learning Outcomes**
+
+Upon successful completion of the course, students will:
+
+- Be able to define terms and restate theorems related to symplectic geometry and topology. 
+- Be able to give examples of symplectic manifolds with specific properties. 
+- Be able to apply the theory from the course to solve problems and prove theorems within symplectic geometry. 
+- Be able to describe a few problems from other fields that admit symplectic interpretations and/or solutions.
+- Be able to write a thorough, carefully written proof, involving key concepts from symplectic geometry. 
+- Be able to present clear proofs to the class. 
+- Be able to converse with peers on the course topics.
+
 <div align="center">
 <img src="/images/Chameau.png" width="100" height="100" />
 </div>
 
-
-**Regulations**
+**Academic Policies and Regulations**
 
 **UWO e-mail:**  In accordance with this policy, the centrally administered e-mail account provided to students will be considered the individual's official university e-mail address. It is the responsibility of the account holder to ensure that e-mail received from the University at his/her official university address is attended to in a timely manner.
 
@@ -106,6 +116,17 @@ Additional student-run support services are offered by the USC.
 
 If students need assistance with the course OWL Brightspace site, they can seek support on the OWL Brightspace Help page. Alternatively, they can contact the Western Technology Services Helpdesk. The Helpdesk can also be contacted by phone at 519-661-3800 or ext. 83800.
 
+**Key Sessional Dates:**
+
+- September 5, 2024: Classes begin.
+- September 13, 2024: Last day to add / drop a first-term half course (without showing WDN).
+- September 30, 2024: National Day for Truth and Reconciliation. No classes.
+- October 12 – 20, 2024: Fall Reading Week.
+- December 2, 2024: Last day to withdraw from a first-term half course without academic penalty.
+- December 6, 2024: Classes End.
+- December 7 - 8, 2024: Study Days.
+- December 9 – 22, 2024: Exam period.
+
 <div align="right">
-Last updated 2024-08-16
+Last updated 2024-08-19
 </div>
